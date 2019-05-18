@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Алаптивная форма</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link href="https://fonts.googleapis.com/css?family=Sofia" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/wow.css">
+</head>
+
+<body>
+
+	<h1 class="wow slideInDown">Fill the form</h1>
+	<form id="myForm" name="myForm" method="post" action="php/main.php">
+		<fieldset>
+			<legend class="legend">	&#8226; Form &#8226;</legend>
+			<div class="container wow slideInLeft" data-wow-delay="0.3s">
+				<p>Name:</p>
+				<label class="name" for="name">Name :</label>
+				<input id="name" type="text" name="name" placeholder="name" autocomplete="on">
+			</div>
+
+			<div class="container wow slideInLeft" data-wow-delay="0.6s">
+				<p>Surname:</p>
+				<label class="surname" for="surname">Surname :</label>
+				<input id="surname" type="text" name="surname" placeholder="surname">
+			</div>
+
+			<div class="container wow slideInLeft" data-wow-delay="0.9s">
+				<p>Patronymic:</p>
+				<label class="patronymic" for="patronymic">Patronymic :</label>
+				<input id="patronymic" type="text" name="p3" placeholder="patronymic">
+			</div>
+
+			<div class="container wow slideInLeft" data-wow-delay="1.2s">
+				<p>Email:</p>
+				<label class="email" for="email">Email :</label>
+				<input id="email" type="email" name="email" placeholder="email">
+			</div>
+
+			<div class="container wow slideInLeft" data-wow-delay="1.5s">
+				<p>Pfone:</p>
+				<label class="phone" for="phone">Pfone :</label>
+				<input id="phone" type="text" name="phone" placeholder="phone">
+			</div>
+
+			<div class="container wow slideInLeft" data-wow-delay="1.8s">
+				<p>Message:</p>
+				<label class="message" for="message">Message :</label>
+				<textarea id="message" name="message" placeholder="Message"></textarea>
+			</div>
+
+			<div class="g-recaptcha wow zoomIn" data-sitekey="6LezJaIUAAAAAMuXxfkCUm12_caFjt95sgN6vRSy" data-wow-delay="2.1s"></div>
+
+			<div class="button wow zoomIn" data-wow-delay="2.4s">
+				<a class="buttons" href="javascript:checkForm()">submit form</a>
+			</div>
+
+		</fieldset>
+	</form>
+
+	<script src="js/wow.min.js"></script>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+    <script>new WOW().init();</script>
+	<script src="js/js.js"></script>
+</body>
+
+</html>
