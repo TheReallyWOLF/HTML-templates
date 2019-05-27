@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7309c8c8-a12c-4e7a-a59b-49b7f4774b20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/cinema-expert.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/BP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/Layer-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/Layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/click-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/click.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/inter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/odn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/img/tvit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/js/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шаблон с использованием гридов/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон лендинга (макет)/js/JS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Шаблон сайта многостраничника/js/js.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,7 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Адаптивная форма обратной связи  PHP/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1325" />
     <option name="height" value="1040" />
   </component>
@@ -46,29 +68,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HTML templates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML templates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Адаптивная форма обратной связи  PHP" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Шаблон с использованием гридов" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,6 +101,7 @@
       <updated>1558168831503</updated>
       <workItem from="1558168832571" duration="113000" />
       <workItem from="1558169243158" duration="160000" />
+      <workItem from="1558938640522" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1558168922287</created>
@@ -113,7 +121,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273000" />
+    <option name="totallyTimeSpent" value="300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -125,12 +133,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24973656" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
